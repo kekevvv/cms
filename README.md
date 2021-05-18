@@ -1,5 +1,5 @@
 # 社团管理系统
-**[效果展示](https://segmentfault.com/a/1190000023279604)**
+**[效果展示](http://note.youdao.com/s/HIdMYdV7)**
 
 ## 技术栈
 ```
